@@ -1,0 +1,11 @@
+D:\c#\Computational Process\Computational Process\bin\Debug\Computational Process.exe.config
+D:\c#\Computational Process\Computational Process\bin\Debug\Computational Process.exe
+D:\c#\Computational Process\Computational Process\bin\Debug\Computational Process.pdb
+D:\c#\Computational Process\Computational Process\obj\Debug\Computational Process.csproj.AssemblyReference.cache
+D:\c#\Computational Process\Computational Process\obj\Debug\Computational Process.csproj.SuggestedBindingRedirects.cache
+D:\c#\Computational Process\Computational Process\obj\Debug\Computational_Process.Form1.resources
+D:\c#\Computational Process\Computational Process\obj\Debug\Computational_Process.Properties.Resources.resources
+D:\c#\Computational Process\Computational Process\obj\Debug\Computational Process.csproj.GenerateResource.cache
+D:\c#\Computational Process\Computational Process\obj\Debug\Computational Process.csproj.CoreCompileInputs.cache
+D:\c#\Computational Process\Computational Process\obj\Debug\Computational Process.exe
+D:\c#\Computational Process\Computational Process\obj\Debug\Computational Process.pdb
